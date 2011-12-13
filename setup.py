@@ -11,7 +11,6 @@ setup(
 
     name='webpy-celery',
     version=__version__,
-    url='',
     url='http://github.com/faruken/webpy-celery',
     license='BSD',
     author='Faruk Akgul',
