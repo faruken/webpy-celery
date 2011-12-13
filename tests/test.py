@@ -7,7 +7,7 @@
 
 import web
 from celery.tests.utils import unittest
-from celerysan import (WebCelery, WebLoader)
+from webpy_celery.webpy_celery import (WebCelery, WebLoader)
 
 
 def absolute(path):
